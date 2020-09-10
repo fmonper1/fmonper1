@@ -8,6 +8,7 @@ Currently working as a Front-End Developer @ MedanoSolutions.
 
 ### Projects
 🔗 [fmonper.com](https://fmonper.com)
+
 🔗 [csgoconsole.com](https://csgoconsole.com)
 
 <!--
