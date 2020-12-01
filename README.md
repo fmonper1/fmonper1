@@ -1,3 +1,5 @@
+[![Fernando Montero - Sofware Engineer](banner.png)](https://fmonper.com)
+
 ### Hi there 👋
 
 I am a Full-Stack Developer from the Canary Islands, Spain.
@@ -5,6 +7,24 @@ I am a Full-Stack Developer from the Canary Islands, Spain.
 I studied a masters in Software Engineering @ The University of Sheffield, UK.
 
 Currently working as a Front-End Developer @ MedanoSolutions.
+
+
+### Tech stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="64px"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="64px"></img>
+</div>
 
 ### Projects
 🔗 [fmonper.com](https://fmonper.com)
