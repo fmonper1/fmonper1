@@ -6,7 +6,7 @@ I am a Full-Stack Developer from the Canary Islands, Spain.
 
 I studied a masters in Software Engineering @ The University of Sheffield, UK.
 
-Currently working as a Front-End Developer @ MedanoSolutions.
+Currently working as a Full-stack Developer @ MedanoSolutions.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fmonper1/">
