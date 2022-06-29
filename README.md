@@ -13,7 +13,7 @@ I am a Full-Stack Developer from the Canary Islands, Spain.
 
 I studied a masters in Software Engineering @ The University of Sheffield, UK.
 
-Currently working as a Software Engineer @ Dekalabs.
+Currently working as a Software Engineer @ Blockchain Project.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fmonper1/">
